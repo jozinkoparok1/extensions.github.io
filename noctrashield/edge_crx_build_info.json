@@ -1,9 +1,9 @@
 {
   "extensionId": "dfknljejlcgbnkbeeohgcpcicigmcdck",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "updateUrl": "https://jozinkoparok1.github.io/extensions.github.io/noctrashield/updates.xml",
   "crxDownloadUrl": "https://jozinkoparok1.github.io/extensions.github.io/noctrashield/NoctraShield.crx",
-  "crxPath": "C:\\Users\\matus\\Documents\\New project\\NoctraShield_MV3_v1.3.1_work\\dist_edge_githubio\\NoctraShield_MV3_v1.6.2.crx",
+  "crxPath": "C:\\Users\\matus\\Documents\\New project\\NoctraShield_MV3_v1.3.1_work\\dist_edge_githubio\\NoctraShield_MV3_v1.6.3.crx",
   "updateXmlPath": "C:\\Users\\matus\\Documents\\New project\\NoctraShield_MV3_v1.3.1_work\\dist_edge_githubio\\updates.xml",
   "keyPath": "C:\\Users\\matus\\AppData\\Local\\NoctraShield\\Keys\\NoctraShield.pem",
   "canRegister": true,
